@@ -32,7 +32,7 @@ The analysis revealed that the 'Montana' product line generated a total revenue 
 ![](S3.png)
 ![](S4.png)
 
-In the analysis, it was discovered that the highest number of units of goods sold, amounting to £4,492.50, occurred in the United States of America. This finding underscores the significant demand for the products in the U.S., highlighting it as a lucrative market. By understanding the key segment and month associated with this remarkable unit sales figure, we can refine the marketing and sales strategies, and delivery for even greater success. This insight directs our focus to meet consumer needs effectively and maximize profitability, strengthening the presence in the U.S. market.
+In the analysis, it was discovered that the highest number of units of goods sold, amounting to 4,492.50, occurred in the United States of America. This finding underscores the significant demand for the products in the U.S., highlighting it as a lucrative market. By understanding the key segment and month associated with this remarkable unit sales figure, we can refine the marketing and sales strategies, and delivery for even greater success. This insight directs our focus to meet consumer needs effectively and maximize profitability, strengthening the presence in the U.S. market.
 
 ![](S5.png)
 
