@@ -1,4 +1,6 @@
-# Sales-Datasets-2
+**# SALES AND MEDICAL DATA SETS**
+
+# Sales-Datasets
 This repository contains a comprehensive sales dataset which include product details, revenue, profit, discount, segment, year. The business questions to solve using the sales data include the following:
 Calculate:
 -The average revenue generated from each sale of ‘Paseo’
