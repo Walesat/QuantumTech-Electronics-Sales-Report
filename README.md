@@ -46,5 +46,14 @@ Upon analyzing the data, it was determined that the Government segment recorded 
 
 In the analysis, it was discovered that December yielded a substantial total profit of £2,717,329.98, despite April being the month with the highest profit. This insight is noteworthy because it demonstrates the potential for seasonality in the business. While April may be the peak-profit month, December's strong performance suggests an opportunity to capitalize on the holiday season and end-of-year trends. By harnessing the December momentum, we can develop targeted strategies to boost profitability even further during this period.
 
+**END**
+
+# Medical-Datasets
+
+
+
+
+
+
 
 
