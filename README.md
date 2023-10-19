@@ -1,6 +1,9 @@
-**# SALES DATA SETS**
+#  **QuantumTech Electronics Sales Report**
 
-# Sales-Datasets
+Welcome to QuantumTech Electronics, where innovation and cutting-edge technology converge. The company is dedicated to pushing the boundaries of electronics design and manufacturing, providing state-of-the-art solutions for a connected world.
+
+As a Data Analyst I was entrusted with the task of crafting detailed reports that not only show the current state of the company's operations but also serve as tools in shaping effective decision making.
+
 This repository contains a comprehensive sales dataset which include product details, revenue, profit, discount, segment, year. The business questions to solve using the sales data include the following:
 Calculate:
 -The average revenue generated from each sale of ‘Paseo’
